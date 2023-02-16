@@ -1,0 +1,40 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:50px;
+    background:#fff;
+}
+
+#container{
+    width:650px;
+    height:350px;
+    background-color: rgb(156, 101, 123);
+    margin:auto;
+    border-radius: 30px;
+}
+
+
+h1{
+    font-size:47px;
+    font-weight:600;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-left: 170px;
+    background-color:rgb(168, 61, 79);
+    padding:10px;
+    border-radius:5px;
+    display: inline-block;
+}
+
+#weekday{
+    font-size:20px;
+    color:rgb(61, 16, 16);
+    font-weight:bolder;
+    margin-left: 170px;
+}
+
+#p{
+    font-size:40px;
+    color:rgb(19, 19, 51);
+    font-weight:800;
+    margin-left:170px;
+}
